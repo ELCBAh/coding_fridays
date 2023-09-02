@@ -4,7 +4,7 @@ AUTHOR: SEBASTIAN MAIDANA
 
 +* Coding friday challenge suggested by jvalenzani-hbtn *+
 
-https://github.com/jvalenzani-hbtn/
+https://github.com/jvalenzani-hbtn/230901-coding-friday
 
 Student Grades
 ==============

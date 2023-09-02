@@ -9,7 +9,7 @@ https://github.com/jvalenzani-hbtn/
 Student Grades
 ==============
 
-Reads a list of students from a .txt file (student_name, grade)
+Reads a list of students from a .csv file (student_name, grade)
 and outputs a JSON file containing; Highest Score, Lowest Score,
 Total Number of Students, Average Score, and a list of students
 sorted by their grade.
